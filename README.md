@@ -26,9 +26,9 @@ Este projeto utiliza a arquitetura disponibilizada pelo Gravel, além disso, cri
 
 Para executar o projeto serão necessários os seguintes programas
 
-[JDK 17: Necessário para executar o projeto Java](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-[Gradle 7.5: Necessário para realizar o build do projeto Java](https://gradle.org/install/)
-[IntelliJ IDEA: Para desenvolver o projeto](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
+- [JDK 17: Necessário para executar o projeto Java](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- [Gradle 7.5: Necessário para realizar o build do projeto Java](https://gradle.org/install/)
+- [IntelliJ IDEA: Para desenvolver o projeto](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
 
 ## Conceito do projeto
 
