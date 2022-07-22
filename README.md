@@ -16,7 +16,7 @@ Durante o desenvolvimento deste projeto, foquei em alguns pontos:
 
 - JDK 17
 - IntelliJ IDEA
-- Gravel
+- Gradle
 
 ## Arquitetura
 
